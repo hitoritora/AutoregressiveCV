@@ -29,7 +29,7 @@ It includes baseline models, variations for robustness, and comparisons between 
 2. **Install dependencies**:
    You will need Python 3.8+ and install these packages:
    ```bash
-   pip install torch torchvision scikit-learn matplotlib tqdm
+   pip install torch torchvision scikit-learn matplotlib tqdm numpy
    ```
 
 3. **(Optional) Enable GPU support**:
