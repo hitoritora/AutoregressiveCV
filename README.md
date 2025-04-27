@@ -1,6 +1,6 @@
 # Autoregressive Modeling and K-Means Clustering for MNIST and CIFAR-10
 
-This project explores **softmax-based autoregressive models** for **image generation** using the **MNIST** and **CIFAR-10** datasets, enhanced with **K-Means clustering** for pixel intensity quantization.  
+This project explores **autoregressive models** for **image generation** using the **MNIST** and **CIFAR-10** datasets, enhanced with **K-Means clustering** for pixel intensity quantization.  
 It includes baseline models, variations for robustness, and comparisons between standard softmax and clustered inputs.
 
 ## Project Structure
